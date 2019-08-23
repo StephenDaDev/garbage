@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-class latest(Cog):
+class latest(commands.Cog):
     """Find out whats the latest plugin to come to the market!
     """
 
