@@ -13,11 +13,11 @@ class latest(Cog):
     """
 
 
-    @commands.command(aliases=["helpers", "supporters", "supportmembers"])
+    @commands.command(aliases=["newest"])
     @checks.has_permissions(PermissionLevel.REGULAR)
-    async def support(self, ctx):
-        """Send an embed with all the support members."""
-          
+    async def latest(self, ctx):
+        """Send the latest plugin to be added to the registry"""
+          await bot.say("The latest plugin is DAzVise's ServerStats Plugin!")
 
 
 def setup(bot):
