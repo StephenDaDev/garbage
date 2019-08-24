@@ -4,7 +4,8 @@ from discord.ext import commands
 class latest(commands.Cog):
     """Find out whats the latest plugin to come to the market!
     """
-
+    def __init__(self, bot):
+        self.bot = bot
 
     @commands.command(aliases=["newest"])
     async def latest(self, ctx):
