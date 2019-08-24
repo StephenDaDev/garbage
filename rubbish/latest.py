@@ -10,7 +10,7 @@ class latest(commands.Cog):
     @commands.command(aliases=["newest"])
     async def latest(self, ctx):
         """Send the latest plugin to be added to the registry"""
-          await ctx.send("This doesn't work because they would need to update for it to work...")
+          await ctx.send("This doesn't work because they would need to update for it to work... Need to add more logic to it so it can pull it down from somewhere like a database")
 
 
 def setup(bot):
