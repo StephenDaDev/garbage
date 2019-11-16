@@ -18,7 +18,7 @@ class sRules(Cog):
         """Send preconfigured rules - loose."""
         embed = discord.Embed(
             title="Server Rules"
-            description=f"""
+            description=f""
                 > ``1.`` No Spamming. 
                 • This will result in a kick.
 
@@ -39,7 +39,7 @@ class sRules(Cog):
 
                 > ``7.`` You are REQUIRED to follow Discord's Community Guidelines.
             • https://www.discordapp.com/guidelines
-            """,
+            "",
             color=self.bot.main_color,
         )
         return await ctx.send(embed=embed)
