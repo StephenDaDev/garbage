@@ -18,7 +18,7 @@ class sRules(Cog):
         """Send preconfigured rules - loose."""
         embed = discord.Embed(
             title="Server Rules"
-            description=f"""
+            description="""
                 > ``1.`` No Spamming. 
                 • This will result in a kick.
                 > ``2.`` No Trolling.
