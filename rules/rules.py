@@ -5,13 +5,15 @@ from discord.ext import commands
 from core import checks
 from core.models import PermissionLevel
 
-Cog = getattr(commands, "Cog", object)
 
-
-class sRules(Cog):
+class sRules(commands.Cog):
     """
     A sample set of rules you can use when your first starting your server to save time.
     """
+
+    def __init__(self, bot):
+        self.bot = bot
+
     @commands.command(aliases=["rolesloose", "lrules", "rulesl"])
     @checks.has_permissions(PermissionLevel.ADMINISTRATOR)
     async def postrulesloose(self, ctx):
