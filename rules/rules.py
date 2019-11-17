@@ -6,7 +6,7 @@ from core import checks
 from core.models import PermissionLevel
 
 
-class sRules(commands.Cog):
+class Rules(commands.Cog):
     """
     A sample set of rules you can use when your first starting your server to save time.
     """
@@ -143,4 +143,5 @@ class sRules(commands.Cog):
 
 # piyush is the only reason this works
 
-def setup(bot):,
+def setup(bot):
+    bot.add_cog(Rules(bot))
