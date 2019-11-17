@@ -143,4 +143,4 @@ class sRules(commands.Cog):
 
 # piyush is the only reason this works
 
-def setup(bot):
+def setup(bot):,
