@@ -19,9 +19,11 @@ This is a shorter list of rules for staff members, basically, use common sense a
 We expect the following from our staff members:
 - We expect you are somewhat active.
 - We expect that you follow the rules.
-- We expect you use honesty, integ
+- We expect you use honesty, integrity, and dedication.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTUxMjk4OCw2ODEwOTE5MjEsMTE5OD
-g1OTY2MywtMTA1MDk5MzY1OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTMxNTIwODQyMSwxODI1NTEyOTg4LDY4MT
+A5MTkyMSwxMTk4ODU5NjYzLC0xMDUwOTkzNjU4LC0yMDg4NzQ2
+NjEyXX0=
 -->
