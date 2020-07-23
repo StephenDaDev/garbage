@@ -11,7 +11,12 @@ Please remember the following
 - DM Advertising is not tolerated at any time.
 - Disrespecting members or other staff members is not tolerated.
 - Do **not** abuse your permissions.
+- Do not leak staff chats.
+- Do not give your friends/relatives special treatment.
+- Use common sense.
+- Listen to the orders of your superiors.
+This is a shorter list of rules for 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE5MjQxNDAsMTE5ODg1OTY2MywtMT
+eyJoaXN0b3J5IjpbLTIxMDgxMDA2ODcsMTE5ODg1OTY2MywtMT
 A1MDk5MzY1OCwtMjA4ODc0NjYxMl19
 -->
