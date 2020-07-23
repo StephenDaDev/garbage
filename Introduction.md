@@ -1,3 +1,5 @@
+# The Drive-In Staff Guide
+
 ## Introduction
 
 Hello and Welcome to The Drive-In Staff! We are excited to have youon our team! This guide was created by the TDI Management Team, it is important you read it fully, as it will help you understand how to do your job, however, don't be afraid to ask questions incase we left something out. Throughout this guide we will outline, our general expectations for staff members, our required activity levels, and department specific information, for the Moderation and Partnership Team's respectivley.
@@ -5,7 +7,7 @@ Hello and Welcome to The Drive-In Staff! We are excited to have youon our team! 
 ## General Staff Expectations
 
 At The Drive In (hereby referred to as TDI) we like to be relaxed but at the same time, we need to ensure that staff are mature and acting appropriatley. Due to this, we do have staff expectations, but we try to be leniant when possible.
-Please remember the following:
+### Staff Rules
 - We do **not** tolerate Discord Terms of Service or Community Guidelines violations from our staff members.
 - Raiding/Nuking other servers is not tolerated at any time.
 - DM Advertising is not tolerated at any time.
@@ -16,14 +18,13 @@ Please remember the following:
 - Use common sense.
 - Listen to the orders of your superiors.
 This is a shorter list of rules for staff members, basically, use common sense and there won't be any issues. The TDI Management reserves the right to change these rules at any time.
-We expect the following from our staff members:
+### Expectations
 - We expect you are somewhat active.
 - We expect that you follow the rules.
 - We expect you use honesty, integrity, and dedication.
-
-
+In the event you do break the above we have established a punishment policy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTIwODQyMSwxODI1NTEyOTg4LDY4MT
-A5MTkyMSwxMTk4ODU5NjYzLC0xMDUwOTkzNjU4LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwOTEzMDI4MzEsMTgyNTUxMjk4OCw2OD
+EwOTE5MjEsMTE5ODg1OTY2MywtMTA1MDk5MzY1OCwtMjA4ODc0
+NjYxMl19
 -->
