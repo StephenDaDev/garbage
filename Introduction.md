@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Hello and Welcome to The Drive-In Staff! We are excited to have youon our team! This guide was created by the TDI Management Team, it is important you read it fully, as it will help you understand how to do your job, however, don't be afraid to ask questions incase we left something out. Throughout this guide we will outline, our general expectations for staff members, our required activity levels, and department specific information, for the Moderation and Partnership Team's respectivley.
+Hello and Welcome to The Drive-In Staff! We are excited to have youon our team! This guide was created by the TDI Management Team, it is important you read it fully, as it will help you understand how to do your job, however, don't be afraid to ask questions incase we left something out. Throughout this guide we will outline: our general expectations for staff members, our required activity levels, and department specific information, for the Moderation and Partnership Team's respectively.
 
 ## General Staff Expectations
 
-At The Drive In (hereby referred to as TDI) we like to be relaxed but at the same time, we need to ensure that staff are mature and acting appropriatley. Due to this, we do have staff expectations, but we try to be leniant when possible.
+At The Drive In (hereby referred to as TDI) we like to be relaxed but at the same time, we need to ensure that staff are mature and acting appropriatley. Due to this, we do have staff expectations, but we try to be lenient when possible.
 ### Staff Rules
 - We do **not** tolerate Discord Terms of Service or Community Guidelines violations from our staff members.
 - Raiding/Nuking other servers is not tolerated at any time.
@@ -46,7 +46,7 @@ Now that you have read this guide, please read the following guide put out by yo
 
 [Partnership](https://www.partnershipguide.com/guide.exe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDY3OTgwMiwxNDExOTE3MzQ0LDEyNT
-Y0NzI1NzYsMTgyNTUxMjk4OCw2ODEwOTE5MjEsMTE5ODg1OTY2
-MywtMTA1MDk5MzY1OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzAzNjU4Mzk4LDE0MTE5MTczNDQsMTI1Nj
+Q3MjU3NiwxODI1NTEyOTg4LDY4MTA5MTkyMSwxMTk4ODU5NjYz
+LC0xMDUwOTkzNjU4LC0yMDg4NzQ2NjEyXX0=
 -->
