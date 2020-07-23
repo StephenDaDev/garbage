@@ -5,12 +5,13 @@ Hello and Welcome to The Drive-In Staff! We are excited to have youon our team! 
 ## General Staff Expectations
 
 At The Drive In (hereby referred to as TDI) we like to be relaxed but at the same time, we need to ensure that staff are mature and acting appropriatley. Due to this, we do have staff expectations, but we try to be leniant when possible.
-Please remember the follow
-- We do not tolerate Discord Terms of Service or Community Guidelines from our staff members.
+Please remember the following
+- We do **not** tolerate Discord Terms of Service or Community Guidelines violations from our staff members.
 - Raiding/Nuking other servers is not tolerated at any time.
 - DM Advertising is not tolerated at any time.
 - Disrespecting members or other staff members is not tolerated.
+- Do **not** abuse your permissions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODQ3MTg5NCwxMTk4ODU5NjYzLC0xMD
-UwOTkzNjU4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE5OTE5MjQxNDAsMTE5ODg1OTY2MywtMT
+A1MDk5MzY1OCwtMjA4ODc0NjYxMl19
 -->
