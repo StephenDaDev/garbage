@@ -15,8 +15,8 @@ Please remember the following
 - Do not give your friends/relatives special treatment.
 - Use common sense.
 - Listen to the orders of your superiors.
-This is a shorter list of rules for 
+This is a shorter list of rules for staff members, basically, use common sense and there won't be any issues. The TDI Management reserves the right to change these rules at any time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgxMDA2ODcsMTE5ODg1OTY2MywtMT
-A1MDk5MzY1OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjgxMDkxOTIxLDExOTg4NTk2NjMsLTEwNT
+A5OTM2NTgsLTIwODg3NDY2MTJdfQ==
 -->
