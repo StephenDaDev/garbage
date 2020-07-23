@@ -4,8 +4,8 @@ Hello and Welcome to The Drive-In Staff! We are excited to have youon our team! 
 
 ## General Staff Expectations
 
-At The Drive In (hereby referred to as TDI) we like to be relaxed but at the same time, we need to ensure that staff are mature and
+At The Drive In (hereby referred to as TDI) we like to be relaxed but at the same time, we need to ensure that staff are mature and acting appropriatley. Due to this, we do have staff expectations, but they aren't very strict.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgzMTMwODksMTE5ODg1OTY2MywtMT
-A1MDk5MzY1OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTAzOTY0MDI1NSwxMTk4ODU5NjYzLC0xMD
+UwOTkzNjU4LC0yMDg4NzQ2NjEyXX0=
 -->
