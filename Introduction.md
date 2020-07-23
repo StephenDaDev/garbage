@@ -32,9 +32,10 @@ The following is the *normal* progression of punishments, however, some may be s
 	- If you come back form a termianation and continue to violate the above, you may be permanently staff blacklisted.
 
 ## Staff Activity Requirements
-Like s
+Like Staff Expecatations, we'd like to be as loose as possible, but at the end of the day, we need to ensure all staff are active enough to remain a sucessful server. 
+We require all staff
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTMyOTIzMiwxODI1NTEyOTg4LDY4MT
+eyJoaXN0b3J5IjpbMTI1NjQ3MjU3NiwxODI1NTEyOTg4LDY4MT
 A5MTkyMSwxMTk4ODU5NjYzLC0xMDUwOTkzNjU4LC0yMDg4NzQ2
 NjEyXX0=
 -->
