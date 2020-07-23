@@ -29,7 +29,7 @@ The following is the *normal* progression of punishments, however, some may be s
 - One (1) Week Suspension
 - Two (2) Week Suspension
 - Termination
-	- If you come back form a termianation and continue to violate the above, you may be permanently staff blacklisted.
+	- If you come back from a termianation and continue to violate the above, you may be permanently staff blacklisted.
 
 ## Staff Activity Requirements
 Like Staff Expecatations, we'd like to be as loose as possible, but at the end of the day, we need to ensure all staff are active enough to remain a sucessful server. 
@@ -46,7 +46,7 @@ Now that you have read this guide, please read the following guide put out by yo
 
 [Partnership](https://www.partnershipguide.com/guide.exe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTkxNzM0NCwxMjU2NDcyNTc2LDE4Mj
-U1MTI5ODgsNjgxMDkxOTIxLDExOTg4NTk2NjMsLTEwNTA5OTM2
-NTgsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTk4NDY3OTgwMiwxNDExOTE3MzQ0LDEyNT
+Y0NzI1NzYsMTgyNTUxMjk4OCw2ODEwOTE5MjEsMTE5ODg1OTY2
+MywtMTA1MDk5MzY1OCwtMjA4ODc0NjYxMl19
 -->
