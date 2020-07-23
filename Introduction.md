@@ -32,8 +32,8 @@ The following is the *normal* progression of punishments, however, some may be s
 	- If you come back from a termianation and continue to violate the above, you may be permanently staff blacklisted.
 
 ## Staff Activity Requirements
-Like Staff Expecatations, we'd like to be as loose as possible, but at the end of the day, we need to ensure all staff are active enough to remain a sucessful server. 
-We require all staff are at least somewhat active in the staff server each week. All Mods should be active in public chats, and events should be active in events chats. We will not be setting any hard numbers on how active you must be, but aim for at leat 50 messages combined in all channels each week. Should the Management Team see the need to impelement different limits, we will do so.
+Like Staff Expecatations, we'd like to be as loose as possible, but at the end of the day, we need to ensure all staff are active enough to remain a successful server. 
+We require all staff are at least somewhat active in the staff server each week. All Mods should be active in public chats, and events should be active in events chats. We will not be setting any hard numbers on how active you must be, but aim for at leat 50 messages combined in all channels each week. Should the Management Team see the need to implement different limits, we will do so.
 
 ## Department Specific Guides
 
@@ -46,7 +46,7 @@ Now that you have read this guide, please read the following guide put out by yo
 
 [Partnership](https://www.partnershipguide.com/guide.exe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNjU4Mzk4LDE0MTE5MTczNDQsMTI1Nj
-Q3MjU3NiwxODI1NTEyOTg4LDY4MTA5MTkyMSwxMTk4ODU5NjYz
-LC0xMDUwOTkzNjU4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE1MzQ3MDY2MTQsMTQxMTkxNzM0NCwxMj
+U2NDcyNTc2LDE4MjU1MTI5ODgsNjgxMDkxOTIxLDExOTg4NTk2
+NjMsLTEwNTA5OTM2NTgsLTIwODg3NDY2MTJdfQ==
 -->
