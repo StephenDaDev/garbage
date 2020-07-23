@@ -31,8 +31,10 @@ The following is the *normal* progression of punishments, however, some may be s
 - Termination
 	- If you come back form a termianation and continue to violate the above, you may be permanently staff blacklisted.
 
+## Staff Activity Requirements
+Like s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM5MTk2ODEsMTgyNTUxMjk4OCw2OD
-EwOTE5MjEsMTE5ODg1OTY2MywtMTA1MDk5MzY1OCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMTU0OTMyOTIzMiwxODI1NTEyOTg4LDY4MT
+A5MTkyMSwxMTk4ODU5NjYzLC0xMDUwOTkzNjU4LC0yMDg4NzQ2
+NjEyXX0=
 -->
