@@ -40,11 +40,13 @@ We require all staff are at least somewhat active in the staff server each week.
 Now that you have read this guide, please read the following guide put out by your department leader.
 *Please note: You are welcome to read the guides of other departments however, remember that the info within them does not apply to you.*
 
-[Events]
-[Moderation/Ushers]
-[Partnershi
+[Events](https://www.eventsguide.com/guide.exe)
+
+[Moderation/Ushers](https://www.moderationguide.com/guide.exe)
+
+[Partnership](https://www.partnershipguide.com/guide.exe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzEzMDYyNywxMjU2NDcyNTc2LDE4Mj
+eyJoaXN0b3J5IjpbMTQxMTkxNzM0NCwxMjU2NDcyNTc2LDE4Mj
 U1MTI5ODgsNjgxMDkxOTIxLDExOTg4NTk2NjMsLTEwNTA5OTM2
 NTgsLTIwODg3NDY2MTJdfQ==
 -->
