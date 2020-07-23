@@ -22,9 +22,13 @@ This is a shorter list of rules for staff members, basically, use common sense a
 - We expect you are somewhat active.
 - We expect that you follow the rules.
 - We expect you use honesty, integrity, and dedication.
+### Punishments
 In the event you do break the above we have established a punishment policy.
+The following is the *normal* progression of punishments, however, some may be skipped based on the offence.
+- Written Warning (x2)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTEzMDI4MzEsMTgyNTUxMjk4OCw2OD
+eyJoaXN0b3J5IjpbLTIxMzkwNTY3NzUsMTgyNTUxMjk4OCw2OD
 EwOTE5MjEsMTE5ODg1OTY2MywtMTA1MDk5MzY1OCwtMjA4ODc0
 NjYxMl19
 -->
