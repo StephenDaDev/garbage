@@ -14,3 +14,5 @@ class latest(commands.Cog):
 
 def setup(bot):
     bot.add_cog(latest(bot))
+    
+print("i don't know py lel");
